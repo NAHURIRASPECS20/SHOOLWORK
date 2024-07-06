@@ -1,0 +1,4 @@
+/* Basic styling for header, navigation, tables, images */
+table{width: 80%; margin: 20px auto; border-collapse: collapse;}
+th, td {border: 1px solid #ddd; padding: 8px; text-align: left;}
+th {background-color: blue;}
